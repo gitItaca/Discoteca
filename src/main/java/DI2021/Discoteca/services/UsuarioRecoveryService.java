@@ -32,6 +32,7 @@ public class UsuarioRecoveryService {
         }
         return Arrays.asList(users);
         //System.out.println(gson.toJson(myTypes));
+        
     }
 
     public static void saveAllUsuarios(List<Usuario> allUsers) {        
